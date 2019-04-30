@@ -12,4 +12,4 @@ Time spent: 12 hours spent in total
 - Version mismatch: Redis transport required redis-py versions 3.2.0 or later, but have 2.10.3 in mhn-admin. Took a lot of time but overall had been resolved.
 
 ## Summary:
-- Number of attacks: 
+- Number of attacks: 2470+
